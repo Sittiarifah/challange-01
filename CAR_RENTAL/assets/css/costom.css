@@ -1,0 +1,135 @@
+p, .nav-link {
+    font-size: 14px;
+}
+
+header {
+    background-color:#F1F3FF;
+    width: 100%;
+    height: 500px;
+}
+
+header .img-mobil {
+    width: 704px;
+    height: 407px;
+}
+
+header .mobil {
+    padding-top: 13px;
+}
+
+header .mobil p {
+    width: 75%;
+    font-weight: 300;
+    line-height: 20px;
+    padding-top: 8px;
+}
+
+header .mobil .btn-mobil {
+    padding: 8px 12px;
+    border-radius: 2px;
+}
+
+header nav .logo {
+    width: 100px;
+    height: 34px;
+    background-color: #0D28A6;
+}
+
+header .padding-nav {
+    padding:1.5rem 0;
+}
+
+header .navbar-nav .nav-item:not(:last-child) .nav-link {
+    margin-right: 32px;
+    color: #000; 
+}
+
+header .navbar-nav .nav-item:last-child .nav-link {
+    background-color: #5CEB5F;
+    border-radius: 2px;
+    color: white;
+    padding: 8px 12px;
+    font-weight: 700px;
+}
+
+.reason {
+    margin-top: 10px;
+}
+
+.whyus {
+    margin-top: 10px;
+}
+
+.testimony {
+    margin-top: 80px;
+}
+
+.testimony h1 {
+    font-size: 24px;
+    font-weight: 700;
+    margin-bottom: 16px;
+}
+
+.testimony > p {
+    font-weight: 300;
+}
+
+.testimony .swiper-slide {
+    width: 619px important;
+    height: 270px;
+    border-radius: 8px;
+    background-color: #F1f3ff
+}
+
+.testimony .img-testimony {
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    margin: 0 46px;
+}
+
+.testimony .text-testimony {
+    width: 95%;
+    margin-top: 8px;
+}
+
+.sewa{
+    position: relative;
+}
+
+.sewa img {
+    position: center;
+}
+
+.sewa h2{
+    position: absolute;
+    left: 300px;
+    top: 120px;
+    color: white;
+}
+
+.sewa p{
+    position: absolute;
+    left: 300px;
+    top: 170px;
+    color: white;
+}
+
+.sewa btn-mobil {
+    padding: 8px 12px;
+    border-radius: 2px;
+}
+
+.faq {
+    margin-top: 10px;
+}
+
+.footer {
+    margin-top: 8px;
+}
+
+.logo {
+    width: 100px;
+    height: 34px;
+    background-color: #0D28A6;
+}
